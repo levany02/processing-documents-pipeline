@@ -1,0 +1,3 @@
+git+https://github.com/levany02/docx2md.git
+google-cloud-storage
+striprtf
